@@ -22,6 +22,7 @@ RUN /install_frappe ${FRAPPE_BRANCH} && \
   /install_app school  https://github.com/frappe/school  version-13 && \
   /install_app hospitality  https://github.com/frappe/hospitality  develop && \
   /install_app wiki  https://github.com/frappe/wiki  version-13 && \
+  /install_app aguacate_healthcare https://aguacate-codes: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@github.com/aguacate-codes/aguacate_healthcare.git version-13 && \
   # Cleanup for production
   /prepare_production
 

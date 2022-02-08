@@ -9,4 +9,5 @@ RUN install_app posawesome https://github.com/yrestom/POS-Awesome master && \
   install_app aguacate_theme  https://aguacate-codes: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@github.com/aguacate-codes/aguacate_theme.git beta && \
   install_app school https://github.com/frappe/school version-13 && \
   install_app hospitality https://github.com/frappe/hospitality develop && \
-  install_app wiki https://github.com/frappe/wiki version-13
+  install_app wiki https://github.com/frappe/wiki version-13 && \
+  install_app aguacate_healthcare https://aguacate-codes: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@github.com/aguacate-codes/aguacate_healthcare.git version-13
