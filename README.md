@@ -1,3 +1,5 @@
+### Developed by Erik reyes - erikreyeslp@gmail.com
+
 ### Introduction
 
 - Fork this repo to build your own image with ERPNext and list of custom Frappe apps.
